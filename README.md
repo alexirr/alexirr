@@ -1,16 +1,19 @@
-### Hi there 👋
+<div>
+  <h1>Hi, I'm Aleksandra Sidorova </h1>
+</div>
 
-<!--
-**alexirr/alexirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+🎓 2nd year student of ITIS Kazan Federal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently learning
+
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript)
+
+
+
+:envelope:  How to reach me
+
+Telegram: https://t.me/alexi_rr  
+Email: alexi.rr@mail.ru
