@@ -4,13 +4,7 @@
 
 ## Education
 
-🎓 2nd year student of ITIS Kazan Federal University
-
-🔭 I’m currently learning
-
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript)
-
+🎓 3rd year student of ITIS Kazan Federal University
 
 
 :envelope:  How to reach me
