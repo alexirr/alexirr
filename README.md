@@ -4,7 +4,7 @@
 
 ## Education
 
-🎓 3rd year student of ITIS Kazan Federal University
+🎓 3rd year student of ITIS in Kazan Federal University(KFU)
 
 
 :envelope:  How to reach me
